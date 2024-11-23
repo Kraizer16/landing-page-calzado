@@ -4,10 +4,10 @@
 - Marlon Adolfo Chacón Gallo
 ## Comandos utilizados:
 - git push
-- git commit -m " "
+- git commit -m ""
 - git pull origin
 - git clone
-- git branch
+- git branch 
 - git checkout
 - git log --oneline
 - git add .
