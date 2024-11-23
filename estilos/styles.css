@@ -1,0 +1,37 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    }
+    #datos{
+        position: relative;
+        top: 9vh;
+    }
+    body{
+        background-image: url(/imagenes/imagen\ registro.jpeg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+       }
+       .asis{
+        font-size: large;
+       }
+    
+    .e-footer{
+        position: absolute;
+        bottom: 0; 
+        left: 0; 
+        right: 0; 
+        margin: auto;
+        text-align: center; 
+        background-color: transparent;
+    }
+    .principal{
+        background-image: url(/imagenes/fondo\ inicio.jpeg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+    
+    }
